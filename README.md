@@ -25,6 +25,10 @@
 - JavaScript
   - this
   - clojure
+  - bind, call, and apply
+  - event loop
+  - promises
+  - async/await
 - Bit manipulation
 - NP-complete problems
   - traveling salesman
